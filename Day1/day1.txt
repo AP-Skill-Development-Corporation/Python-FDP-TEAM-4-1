@@ -1,0 +1,39 @@
+GOod Morning all
+---------------------------
+5/18/2020
+Basics Of Python
+----------------------
+Python Definition:-
+	Highlevel Programming Language
+
+	Interpriter
+
+	oop's (Object-oriented programming System)
+
+	multipurpose
+
+	Dynamic
+Python Features:-
+	Simple and Easy to Learn
+
+	Free and Open Source
+
+	Interpreted Language
+
+	Expressive Language
+
+	Object-Oriented Language
+
+Python Files
+	Editors:  -> .extensions
+
+	Use specified language like c, c++, java, python etc.....
+
+	Notepad -> By default in windows
+
+	gedit, nano -> By default in Linux
+
+Advance Editors:-
+
+	geany, sublime, editplus, atom, notepad++ etc...
+installations
